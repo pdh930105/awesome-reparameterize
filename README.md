@@ -11,8 +11,10 @@ A curated list for Reparameterize:
 
 #### 🚀 Future Works
 [ ] **Sorting papers by year, conference**
+
 [ ] **Upload an image of the main idea of the paper**
 
+[] **Support journal format (TPAMI, TNNLS, TIP, etc)**
 #### 💮 Contributing
 
 If you'd like to include other reparameterization paper, or need to update any details such as conference information or code URLs, please feel free to submit a pull request. You can generate the required markdown format for each paper by filling in the information in `generate_item.py` and execute `python generate_item.py`. (or using `genetarte_markdown.ipynb`)  We warmly appreciate your contributions to this list. Alternatively, you can email me with the links to your paper and code, and I would add your paper to the list at my earliest convenience. 
